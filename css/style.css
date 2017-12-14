@@ -62,7 +62,7 @@ h3 {
   font-size: 1.3em;
 	text-align: center;
 }
-.example {
+.example, h3 {
   padding-top: 30px;
   text-align: center;
 }
